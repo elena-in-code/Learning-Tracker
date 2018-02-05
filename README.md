@@ -6,23 +6,29 @@
 
 |Skill| 1<br>Introduction | 2<br>Basics | 3<br>Good | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome |
 |:--------:|:---:|:---:|:---:|:---:|:---:|:---:|
+|**HTML5**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |![done][done] | |
+|**CSS3**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |![done][done] | |
+|**Css Grid Layout Flex-box**| ![done][done] | ![done][done] | ![done][done] |  |  | |
+|**Flex-box**| ![done][done] | ![done][done] | ![done][done] |  |  | |
+|**Bootstrap**| ![done][done] | ![done][done] | ![done][done] |  |  | |
+|**Skeleton**| ![done][done] | ![done][done] | ![done][done] |  |  | |
+|**Materialize**| ![done][done] | ![done][done] |  |  |  | |
 |**JavaScript**| ![done][done] | ![done][done] | ![done][done] |  |  | |
 |**ES6**| ![done][done] | ![done][done] |  |  |  | |
 |**jQuery**| ![done][done] | ![done][done] | ![done][done] |  |  | |
 |**Angular 4**| ![done][done] | ![done][done] |  |  |  | |
 |**React**| ![done][done] |  |  |  |  |  |
-|**HTML5**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |![done][done] | |
-|**CSS3**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |![done][done] | |
-|**Css Grid & Flex-box**| ![done][done] | ![done][done] | ![done][done] |  |  | |
-|**Bootstrap**| ![done][done] | ![done][done] | ![done][done] |  |  | |
-|**GitHub**| ![done][done] | ![done][done] | ![done][done] |  |  | |
-|**Markdown**| ![done][done] | ![done][done] | ![done][done] |  |  | |
+|**AJAX**| ![done][done] | ![done][done] |  |  |  |  |
 |**NPM**| ![done][done] |  |  |  |  | |
 |**Node.js**| ![done][done] | |  |  |  | |
 |**Command line**| ![done][done] | ![done][done] |  |  |  | |
-|**AJAX**| ![done][done] |  |  |  |  |  |
 |**p5.js**| ![done][done] | ![done][done] |  |  |  | |
+|**particles.js**| ![done][done] |  |  |  |  |  |
 |**mo.js**| ![done][done] |  |  |  |  |  |
+|**popmotion.js**| ![done][done] |  |  |  |  |  |
+|**playful.js**| ![done][done] |  |  |  |  |  |
+|**GitHub**| ![done][done] | ![done][done] | ![done][done] |  |  | |
+|**Markdown**| ![done][done] | ![done][done] | ![done][done] |  |  | |
 
 ---
 
