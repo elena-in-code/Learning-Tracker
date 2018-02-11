@@ -47,7 +47,12 @@
 
 ---
 
+### Portfolio
+Visit [my portfolio](https://elena-in-code.github.io/Portfolio-ENG/)
 
-#### Acknowledgments 
+---
+
+
+### Acknowledgments 
 
 Based on the learning tracker by [Syk Houdeib](https://github.com/Syknapse/My-Learning-Tracker) 
