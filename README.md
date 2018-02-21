@@ -54,7 +54,7 @@ Visit [my portfolio](https://elena-in-code.github.io/Portfolio-ENG/)
 ---
 
 ### Index of my Repositories on Github
-Visit [Repositories Index](#)
+Visit [Repositories Index](https://github.com/elena-in-code/Learning-Tracker/blob/master/repoIndex.md#repositories-index)
 
 ---
 
