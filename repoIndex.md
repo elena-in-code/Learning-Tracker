@@ -2,8 +2,15 @@
 
 |Repository| Live Site |Comments|
 |:---:|:---:|:---:|
-|[]()|[]()| |
-|[]()|[]()| |
+|[Fetch-API-exercise](https://github.com/elena-in-code/Fetch-API-exercise)|x|Exercise/practice. Traversy media.|
+|[ES6-Promises](https://github.com/elena-in-code/ES6-Promises)|x|Exercise/practice. Traversy media.|
+|[Portfolio-ENG](https://github.com/elena-in-code/Portfolio-ENG)|[Febreruary 2018](https://elena-in-code.github.io/Portfolio-ENG/)|HTML5, CSS3, Bootstrap 4 |
+|[Custom-HTTP-Library-](https://github.com/elena-in-code/Custom-HTTP-Library-)|x|Exercise/practice. Traversy media.|
+|[Angular-Book-Search-App](https://github.com/elena-in-code/Angular-Book-Search-App)|x|Angular 4 - Fictional National Library. Angular CLI|
+|[Ajax-type-ahead](https://github.com/elena-in-code/Ajax-type-ahead)|[Filterable US cities & states](https://elena-in-code.github.io/Ajax-type-ahead/)|javaScript30 Challenge. HTML5, CSS3, JavaScript |
+|[AJAX-Fetch-API](https://github.com/elena-in-code/AJAX-Fetch-API)|[Chuck Norris joke generator](https://codepen.io/Elena_in_code/pen/VQjWdg)|Traversy media. HTML5, CSS3, Skeleton, javaScript|
+|[AJAX-JSON-practise](https://github.com/elena-in-code/AJAX-JSON-practise)|x|Exercise/practice. Traversy media. |
+|[XHR-with-text](https://github.com/elena-in-code/XHR-with-text)|x|Exercise/practiceTraversy media.|
 |[Book-List-App](https://github.com/elena-in-code/Book-List-App)|[Create a book list](https://elena-in-code.github.io/Book-List-App/)|Traversy media. HTML5, CSS3, Skeleton, javaScript|
 |[Image-gallery-thumbnails](https://github.com/elena-in-code/Image-gallery-thumbnails)|[Dynamic Image Gallery with Thumbnails](https://elena-in-code.github.io/Image-gallery-thumbnails/)|Traversy media. HTML5, CSS3, javaScript|
 |[Number-guesser](https://github.com/elena-in-code/Number-guesser)|[Game](https://elena-in-code.github.io/Number-guesser/)|Traversy media. HTML5, CSS3, Skeleton, javaScript |
