@@ -4,7 +4,23 @@
 |:---:|:---:|:---:|
 |[]()|[]()| |
 |[]()|[]()| |
-|[]()|[]()| |
+|[Book-List-App](https://github.com/elena-in-code/Book-List-App)|[Create a book list](https://elena-in-code.github.io/Book-List-App/)|Traversy media. HTML5, CSS3, Skeleton, javaScript|
+|[Image-gallery-thumbnails](https://github.com/elena-in-code/Image-gallery-thumbnails)|[Dynamic Image Gallery with Thumbnails](https://elena-in-code.github.io/Image-gallery-thumbnails/)|Traversy media. HTML5, CSS3, javaScript|
+|[Number-guesser](https://github.com/elena-in-code/Number-guesser)|[Game](https://elena-in-code.github.io/Number-guesser/)|Traversy media. HTML5, CSS3, Skeleton, javaScript |
+|[Loan-Calculator](https://github.com/elena-in-code/Loan-Calculator)|[Loan Calculator](https://elena-in-code.github.io/Loan-Calculator/)|Traversy media. HTML5, CSS3, Bootstrap 4, javaScript |
+|[Task-List-Local-Stotage](https://github.com/elena-in-code/Task-List-Local-Stotage)|[Filterable Task List with Local Storage](https://elena-in-code.github.io/Task-List-Local-Stotage/)|Traversy media. HTML5, CSS3,javaScript, Materialize |
+|[Pixel-Art-Maker-](https://github.com/elena-in-code/Pixel-Art-Maker-)|[Pixel Art Maker](https://elena-in-code.github.io/Pixel-Art-Maker-/)|Udacity and Google Developer Challenge Scholarship 2017-2018. HTML5, CSS3, jQuery|
+|[Number-Facts-App](https://github.com/elena-in-code/Number-Facts-App)|[random facts about numbers](https://elena-in-code.github.io/Number-Facts-App/)|Traversy media. HTML5, CSS3, Bootstrap 4, javaScript, Fetch / API |
+|[Contribute-To-This-Project](https://github.com/elena-in-code/Contribute-To-This-Project)|[contributed on GitHub](https://syknapse.github.io/Contribute-To-This-Project/)|HTML5|
+|[Countdown-clock](https://github.com/elena-in-code/Countdown-clock)|[Clock](https://elena-in-code.github.io/Countdown-clock/)|HTML5, CSS3, javaScript |
+|[Snake-Game](https://github.com/elena-in-code/Snake-Game)|[Game](https://elena-in-code.github.io/Sanke-Game/)| HTML5, CSS3, P5.js|
+|[Weight-Converter-App](https://github.com/elena-in-code/Weight-Converter-App)|[pounds to grams & kilograms and ounces](https://elena-in-code.github.io/Weight-Converter-App/)|Traversy media. HTML5, CSS3, JavaScript, Bootstrap 4|
+|[Filterable-List](https://github.com/elena-in-code/Filterable-List)|[Filterable contact List](https://elena-in-code.github.io/Filterable-List/)| Traversy media. HTML5, CSS3, JavaScript, Materialize|
+|[canvas](https://github.com/elena-in-code/canvas)|[mouse to draw over screen](https://elena-in-code.github.io/canvas/)|javaScript30 Challenge. HTML5, CSS3, JavaScript|
+|[Angular-Image-Search-App](https://github.com/elena-in-code/Angular-Image-Search-App)|x|HTML5, CSS3, Angular4, TypeScript, Angular CLI, Masonry.js,Angular Material|
+|[Angular-Photo-Gallery-App](https://github.com/elena-in-code/Angular-Photo-Gallery-App)|x|HTML5, CSS3, Angular4, TypeScript, Angular CLI|
+|[Angular-tour-of-heroes](https://github.com/elena-in-code/Angular-tour-of-heroes)|x|HTML5, CSS3, Angular2, TypeScript, Angular CLI |
+|[Book-Search-App](https://github.com/elena-in-code/Book-Search-App)|[responsive app with javascript]()|HTML5, CSS3, javaScript ES6 |
 |[List-App-jQuery](https://github.com/elena-in-code/List-App-jQuery)|[Simple Task List](https://elena-in-code.github.io/List-App-jQuery/)|HTML5, CSS3, jQuery|
 |[Flip-information-cards](https://github.com/elena-in-code/Flip-information-cards)|[Modern functional web feature](https://elena-in-code.github.io/Flip-information-cards/)|HTML5, CSS3|
 |[css-night-sky](https://github.com/elena-in-code/css-night-sky)|[Css animated Night Sky](https://elena-in-code.github.io/css-night-sky/)|HTML5, CSS3, jQuery |
