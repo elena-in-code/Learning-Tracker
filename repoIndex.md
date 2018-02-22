@@ -3,6 +3,13 @@
 |Repository| Live Site |Comments|
 |:---:|:---:|:---:|
 |[]()|[]()| |
+|[]()|[]()| |
+|[]()|[]()| |
+|[List-App-jQuery](https://github.com/elena-in-code/List-App-jQuery)|[Simple Task List](https://elena-in-code.github.io/List-App-jQuery/)|HTML5, CSS3, jQuery|
+|[Flip-information-cards](https://github.com/elena-in-code/Flip-information-cards)|[Modern functional web feature](https://elena-in-code.github.io/Flip-information-cards/)|HTML5, CSS3|
+|[css-night-sky](https://github.com/elena-in-code/css-night-sky)|[Css animated Night Sky](https://elena-in-code.github.io/css-night-sky/)|HTML5, CSS3, jQuery |
+|[CSS-Landscape](https://github.com/elena-in-code/CSS-Landscape)|x|Exercise/practice|
+|[text-glitch](https://github.com/elena-in-code/text-glitch)|[CSS animated Text Glitch](https://elena-in-code.github.io/text-glitch/)|HTML5, CSS3 |
 |[Grid-Playground](https://github.com/elena-in-code/Grid-Playground)|x|Exercise/practice|
 |[css-image](https://github.com/elena-in-code/css-image)|[Sea Creature animation](https://elena-in-code.github.io/css-image/)|HTML5, CSS3|
 |[Font-Awesome-Icon-Animation](https://github.com/elena-in-code/Font-Awesome-Icon-Animation)|[Css animated Rocket](https://elena-in-code.github.io/Font-Awesome-Icon-Animation/)|HTML5, CSS3|
@@ -30,3 +37,7 @@
 |[1-CSS-daily-image](https://github.com/elena-in-code/1-CSS-daily-image)|[Panda](https://elena-in-code.github.io/1-CSS-daily-image/)|dailycssimages Challenge. HTML5, CSS3|
 |[Portfolio](https://github.com/elena-in-code/Portfolio)|[July 2017](https://elena-in-code.github.io/Portfolio/)| FreeCodeCamp Challenge. HTML5, CSS3, Bootstrap|
 |[Tribute-page](https://github.com/elena-in-code/Tribute-page)|[To Hedy Lamarr](https://elena-in-code.github.io/Tribute-page/)| FreeCodeCamp Challenge. HTML5, CSS3, Bootstrap |
+
+<br>
+
+[<< back to my learning tracker](https://github.com/elena-in-code/Learning-Tracker)
