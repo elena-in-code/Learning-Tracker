@@ -2,6 +2,8 @@
 
 |Repository| Live Site |Comments|
 |:---:|:---:|:---:|
+|[React-project-manager](https://github.com/elena-in-code/React-project-manager)|x|React App - Traversy media.|
+|[Github-finder](https://github.com/elena-in-code/Github-finder)|x|WIP|
 |[FrontEnd-Web-Developer-Google-Nanodegree-Scholarship](https://github.com/elena-in-code/FrontEnd-Web-Developer-Google-Nanodegree-Scholarship)|x|Notes/Exercise/practice|
 |[Fetch-API-exercise](https://github.com/elena-in-code/Fetch-API-exercise)|x|Exercise/practice. Traversy media.|
 |[ES6-Promises](https://github.com/elena-in-code/ES6-Promises)|x|Exercise/practice. Traversy media.|
